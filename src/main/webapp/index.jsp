@@ -1,10 +1,10 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello Simplilearn!</h2>
 
-<h3>WelCome to Jenkins! We are working on Code Pipeline version 2</h3>
+<h3>WelCome to Simplilearn! We are working on Tomcat project</h3>
 
-<p> This is change is to verify the Stage vs Production</p>>
+<p> This is change is to verify the deployment</p>>
 
 </body>
 </html>
